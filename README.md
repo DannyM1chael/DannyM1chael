@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Moscow Witte University.
+- 🎓 &nbsp; Studied Computer Science at Moscow Witte University.
 - 💼 &nbsp; Working as a Senior Full Stack Developer at Promwad.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 
