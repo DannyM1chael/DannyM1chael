@@ -15,6 +15,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -43,8 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.dannym1chael.github.io/Portfolio-app"><img alt="Website" src="https://img.shields.io/badge/Website-www.dannym1chael.github.io/Portfolio-app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/denis-mikhalev-37952987/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/denis-mikhalev-37952987/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Denis%20VMikhalev-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:denis.mikhalev.pro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-denis.mikhalev.pro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
