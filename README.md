@@ -43,8 +43,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/denis-mikhalev-37952987/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Denis%20VMikhalev-blue?style=flat-square&logo=linkedin"></a>
+<p>
+<a href="https://www.linkedin.com/in/denis-mikhalev-37952987/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Denis%20Mikhalev-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:denis.mikhalev.pro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-denis.mikhalev.pro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
